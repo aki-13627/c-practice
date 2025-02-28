@@ -72,7 +72,7 @@ int main() {
   a1 = f1(N, M);
   a2 = f2(N);
   a3 = f3(N);
-  a4 = f4(N);
+//   a4 = f4(N);
   a5 = f5(N, M);
 
   cout << "f0: " << a0 << endl;
