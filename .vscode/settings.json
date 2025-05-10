@@ -13,6 +13,8 @@
         "unordered_set": "cpp",
         "vector": "cpp",
         "*.tcc": "cpp",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "cmath": "cpp"
+    },
+    "editor.inlineSuggest.enabled": false,
 }
